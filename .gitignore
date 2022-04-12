@@ -131,3 +131,6 @@ dmypy.json
 # VS Code IDE stuff
 .vscode/
 
+# Additional files specific to MacOs
+.DS_Store
+
